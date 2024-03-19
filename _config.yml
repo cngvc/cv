@@ -1,0 +1,5 @@
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: Vu Chi Cong's CV
+description: Hello, thank you for coming. Please let me know if you have any questions or recommendations.
