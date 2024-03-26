@@ -93,8 +93,8 @@ Click [this link](https://congvc.com/) to see my [portfolio](https://congvc.com/
 
 ## 💬 Languages
 
-🇻🇳 **Vietnamese**: Native <br>
 🇺🇸 **English**: Intermediate
+🇻🇳 **Vietnamese**: Native <br>
 
 ---
 
